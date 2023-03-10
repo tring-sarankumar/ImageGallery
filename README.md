@@ -1,2 +1,2 @@
 # ImageGallery
-Website Link : https://tringapps-sarankumar.github.io/ImageGallery/
+Webpage Link : https://tringapps-sarankumar.github.io/ImageGallery/
